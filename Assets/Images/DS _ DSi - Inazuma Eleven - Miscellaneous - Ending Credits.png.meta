@@ -1,0 +1,892 @@
+fileFormatVersion: 2
+guid: 75c60e1bd682ea34daecd4328514c888
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1932
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1d2811068d1c14094df98a666b4593
+      internalID: -87235637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1932
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7932ac4db3f3b9249b4e9fdbbef40f72
+      internalID: -724595906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1932
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fad8b93616943b41815fa912ef72f44
+      internalID: -1743706316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1739
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea46a3a4c44ea24fb60b137fdc6c55e
+      internalID: 165515854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1739
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f813af4eb23e464ca9dd35e947230c8
+      internalID: -386495568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1739
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9597af0e2eb7748acef430602462ce
+      internalID: 865789968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1546
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97af1438c3adaa41accd9c961adce9f
+      internalID: 245852519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1546
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af515f78f062993469be9cff728a8083
+      internalID: -156763676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_8
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1546
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b2de726b6b07642ae785298e361633
+      internalID: -1849727894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1353
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0994822155d5b4c9ab0485eb87da92
+      internalID: 465468564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1353
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448e28aed95ec0b4da5c03c73ee1658e
+      internalID: -661694853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_11
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1353
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834b16aa7eb121c44af68bbb7c3615b2
+      internalID: -331041940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1160
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52b2a81b0342b549bbd4efe801ca8d4
+      internalID: 107707717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1160
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf846f15cbca5643857cb67b40229cf
+      internalID: 1606559453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_14
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1160
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76828ac25f684bb43bec92b552201e3f
+      internalID: 780884004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 967
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5800098da5cdd8f4d986156cf60389e0
+      internalID: -68479691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 967
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13515d8615e0c040ac9c0fc9714917c
+      internalID: 760324797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 967
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247fda0697b6a6948a19e5bb3764d4b2
+      internalID: -361139760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 774
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1947931b6bb7b264a981f503b721c543
+      internalID: 1928292106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 774
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f948b5e0118f14d996cbfaf7362465
+      internalID: 764529867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_20
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 774
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed340525d61ba424bbe7d4a0d80209a0
+      internalID: 1899974025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629e9e3c07c788f4d9f86b437a1de058
+      internalID: 1853556472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_22
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 581
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598afbcc6aa74de4b8238502f75ac746
+      internalID: 9096255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_23
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 581
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dc2ab6d38af82489e2445947559e1c
+      internalID: -751787640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba29b72d1681c4cb495483b58bc8e9
+      internalID: -873886356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 388
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2146df0d6cd6843ae1e670ecf3d070
+      internalID: 876969955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_26
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 388
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc1bc0402061ef4682fe9692df4372b
+      internalID: -686140960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fc6561a56f37547a44127135cecda0
+      internalID: 176545230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 195
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0105e67b87343b94ca42a2a803ac420a
+      internalID: -1747556124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_29
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 195
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b796d218b6e6024c90d207371de0883
+      internalID: 1336843995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a7e7c7da5d43445a811242116e7102
+      internalID: -592362697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb9d56079b54eb4b9ea9421efd4479e
+      internalID: -1910863917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_32
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e71462cee32b234ea6bea96ccaffc11
+      internalID: -1845985345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_0: -87235637
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_1: -724595906
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_10: -661694853
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_11: -331041940
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_12: 107707717
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_13: 1606559453
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_14: 780884004
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_15: -68479691
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_16: 760324797
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_17: -361139760
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_18: 1928292106
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_19: 764529867
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_2: -1743706316
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_20: 1899974025
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_21: 1853556472
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_22: 9096255
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_23: -751787640
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_24: -873886356
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_25: 876969955
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_26: -686140960
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_27: 176545230
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_28: -1747556124
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_29: 1336843995
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_3: 165515854
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_30: -592362697
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_31: -1910863917
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_32: -1845985345
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_4: -386495568
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_5: 865789968
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_6: 245852519
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_7: -156763676
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_8: -1849727894
+      DS _ DSi - Inazuma Eleven - Miscellaneous - Ending Credits_9: 465468564
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
