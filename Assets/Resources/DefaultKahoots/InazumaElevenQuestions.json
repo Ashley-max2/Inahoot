@@ -1,0 +1,216 @@
+{
+  "setName": "Inazuma Eleven Quiz Completo",
+  "theme": "Inazuma Eleven",
+  "questions": [
+    {
+      "questionText": "¿Cuál es el nombre del protagonista principal de Inazuma Eleven?",
+      "answers": ["Axel Blaze", "Mark Evans", "Nathan Swift", "Jude Sharp"],
+      "correctAnswerIndex": 1,
+      "category": "Personajes",
+      "timeLimit": 20
+    },
+    {
+      "questionText": "¿Cómo se llama la técnica especial de tiro de Mark Evans?",
+      "answers": ["Fire Tornado", "God Hand", "Majin The Hand", "Inazuma 1"],
+      "correctAnswerIndex": 0,
+      "category": "Técnicas",
+      "timeLimit": 20
+    },
+    {
+      "questionText": "¿Quién es el portero titular del equipo Raimon?",
+      "answers": ["Mark Evans", "Nathan Swift", "Erik Eagle", "Darren LaChance"],
+      "correctAnswerIndex": 0,
+      "category": "Personajes",
+      "timeLimit": 20
+    },
+    {
+      "questionText": "¿Cuál es la técnica de parada más famosa de Mark Evans?",
+      "answers": ["God Hand", "Majin The Hand", "Mugen The Hand", "Diamond Hand"],
+      "correctAnswerIndex": 0,
+      "category": "Técnicas",
+      "timeLimit": 20
+    },
+    {
+      "questionText": "¿Qué jugador utiliza la técnica 'Eternal Blizzard'?",
+      "answers": ["Axel Blaze", "Shawn Frost", "Nathan Swift", "Jude Sharp"],
+      "correctAnswerIndex": 1,
+      "category": "Técnicas",
+      "timeLimit": 25
+    },
+    {
+      "questionText": "¿Cómo se llama el entrenador del equipo Raimon?",
+      "answers": ["Ray Dark", "Mr. Hillman", "Gran", "Seymour Hillman"],
+      "correctAnswerIndex": 3,
+      "category": "Personajes",
+      "timeLimit": 20
+    },
+    {
+      "questionText": "¿Qué equipo es el rival principal en la primera temporada?",
+      "answers": ["Knights of Queen", "The Genesis", "Royal Academy", "Zeus"],
+      "correctAnswerIndex": 2,
+      "category": "Equipos",
+      "timeLimit": 20
+    },
+    {
+      "questionText": "¿Cuál es el nombre de la técnica combinada entre Mark y Axel?",
+      "answers": ["Tri-Pegasus", "Inazuma 1", "Dragon Tornado", "Twin Boost"],
+      "correctAnswerIndex": 1,
+      "category": "Técnicas",
+      "timeLimit": 25
+    },
+    {
+      "questionText": "¿Qué jugador tiene la técnica 'Astro Break'?",
+      "answers": ["Byron Love", "Nathan Swift", "Jude Sharp", "Xavier Foster"],
+      "correctAnswerIndex": 2,
+      "category": "Técnicas",
+      "timeLimit": 25
+    },
+    {
+      "questionText": "¿En qué posición juega Nathan Swift?",
+      "answers": ["Portero", "Defensa", "Centrocampista", "Delantero"],
+      "correctAnswerIndex": 3,
+      "category": "Personajes",
+      "timeLimit": 15
+    },
+    {
+      "questionText": "¿Cuál es el nombre del abuelo de Mark Evans?",
+      "answers": ["Travis Hillman", "Daisuke Endo", "Byron Evans", "David Evans"],
+      "correctAnswerIndex": 3,
+      "category": "Historia",
+      "timeLimit": 25
+    },
+    {
+      "questionText": "¿Qué técnica usa Axel Blaze junto con Shawn Frost?",
+      "answers": ["Fire Blizzard", "Twin Boost F", "Crossfire", "Wolf Legend"],
+      "correctAnswerIndex": 0,
+      "category": "Técnicas",
+      "timeLimit": 25
+    },
+    {
+      "questionText": "¿Cómo se llama el equipo de aliens en la temporada 2?",
+      "answers": ["Epsilon", "The Genesis", "Chaos", "Gemini Storm"],
+      "correctAnswerIndex": 3,
+      "category": "Equipos",
+      "timeLimit": 20
+    },
+    {
+      "questionText": "¿Quién es el capitán de Zeus?",
+      "answers": ["Byron Love", "Aphrodite", "Jude Sharp", "Jordan Greenway"],
+      "correctAnswerIndex": 1,
+      "category": "Personajes",
+      "timeLimit": 20
+    },
+    {
+      "questionText": "¿Qué técnica defensiva usa Jack Wallside?",
+      "answers": ["The Wall", "Iron Wall", "Volcano Cut", "Killer Slide"],
+      "correctAnswerIndex": 0,
+      "category": "Técnicas",
+      "timeLimit": 20
+    },
+    {
+      "questionText": "¿En qué torneo participa Raimon en la primera temporada?",
+      "answers": ["Copa Mundial Juvenil", "Torneo Frontier", "Football Frontier", "Campeonato Nacional"],
+      "correctAnswerIndex": 2,
+      "category": "Competiciones",
+      "timeLimit": 20
+    },
+    {
+      "questionText": "¿Cuál es la evolución de God Hand?",
+      "answers": ["Majin The Hand", "God Hand V", "True God Hand", "Omega The Hand"],
+      "correctAnswerIndex": 1,
+      "category": "Técnicas",
+      "timeLimit": 25
+    },
+    {
+      "questionText": "¿Qué número lleva Mark Evans en su camiseta?",
+      "answers": ["1", "10", "7", "9"],
+      "correctAnswerIndex": 0,
+      "category": "Personajes",
+      "timeLimit": 15
+    },
+    {
+      "questionText": "¿Cómo se llama el manager del equipo Raimon?",
+      "answers": ["Nelly Raimon", "Silvia Woods", "Celia Hills", "Victoria Vanguard"],
+      "correctAnswerIndex": 2,
+      "category": "Personajes",
+      "timeLimit": 20
+    },
+    {
+      "questionText": "¿Qué técnica usa Erik Eagle?",
+      "answers": ["Killer Fields", "Death Zone", "Dual Smash", "Volcano Cut"],
+      "correctAnswerIndex": 1,
+      "category": "Técnicas",
+      "timeLimit": 25
+    },
+    {
+      "questionText": "¿Cuántos jugadores hay en un equipo de fútbol en Inazuma Eleven?",
+      "answers": ["11", "16", "20", "15"],
+      "correctAnswerIndex": 0,
+      "category": "General",
+      "timeLimit": 15
+    },
+    {
+      "questionText": "¿Qué equipo dirige Ray Dark?",
+      "answers": ["Royal Academy", "Zeus", "The Genesis", "Knights of Queen"],
+      "correctAnswerIndex": 2,
+      "category": "Equipos",
+      "timeLimit": 20
+    },
+    {
+      "questionText": "¿Cuál es la técnica especial de Jim Wraith?",
+      "answers": ["Spinning Cut", "Hurricane Arrow", "Spin Cut", "Blade Attack"],
+      "correctAnswerIndex": 2,
+      "category": "Técnicas",
+      "timeLimit": 25
+    },
+    {
+      "questionText": "¿Qué personaje tiene el alter ego 'Burn'?",
+      "answers": ["Mark Evans", "Axel Blaze", "Shawn Frost", "Nathan Swift"],
+      "correctAnswerIndex": 1,
+      "category": "Personajes",
+      "timeLimit": 20
+    },
+    {
+      "questionText": "¿En qué ciudad está ubicada la escuela Raimon?",
+      "answers": ["Tokio", "Osaka", "Inazuma Town", "Kyoto"],
+      "correctAnswerIndex": 2,
+      "category": "Historia",
+      "timeLimit": 20
+    },
+    {
+      "questionText": "¿Cuál es la técnica más poderosa de Axel Blaze?",
+      "answers": ["Fire Tornado", "Bakunetsu Storm", "Fire Blizzard", "Volcanic Tornado"],
+      "correctAnswerIndex": 1,
+      "category": "Técnicas",
+      "timeLimit": 25
+    },
+    {
+      "questionText": "¿Qué técnica combinada usan tres jugadores del equipo?",
+      "answers": ["Tri-Pegasus", "Triangle Z", "Delta Shield", "Triple Boost"],
+      "correctAnswerIndex": 0,
+      "category": "Técnicas",
+      "timeLimit": 25
+    },
+    {
+      "questionText": "¿Quién es el hermano mayor de Axel Blaze?",
+      "answers": ["David Evans", "Byron Love", "Gran", "David Blaze"],
+      "correctAnswerIndex": 3,
+      "category": "Historia",
+      "timeLimit": 25
+    },
+    {
+      "questionText": "¿Qué técnica usa Shawn Frost en defensa?",
+      "answers": ["Ice Block", "Eternal Blizzard", "Penguin The God", "Ice Ground"],
+      "correctAnswerIndex": 3,
+      "category": "Técnicas",
+      "timeLimit": 25
+    },
+    {
+      "questionText": "¿Cuál es el color principal del uniforme de Raimon?",
+      "answers": ["Azul", "Rojo", "Verde", "Amarillo"],
+      "correctAnswerIndex": 0,
+      "category": "General",
+      "timeLimit": 15
+    }
+  ]
+}

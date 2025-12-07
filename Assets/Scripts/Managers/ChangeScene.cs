@@ -31,7 +31,7 @@ public class SceneChangerTMP : MonoBehaviour, IPointerClickHandler
         // Verificar que se haya asignado una escena
         if (string.IsNullOrEmpty(sceneName))
         {
-            Debug.LogWarning("No se ha asignado un nombre de escena en: " + gameObject.name);
+            
         }
     }
 
@@ -57,7 +57,7 @@ public class SceneChangerTMP : MonoBehaviour, IPointerClickHandler
         }
         else
         {
-            Debug.LogError("Nombre de escena no asignado en: " + gameObject.name);
+            
         }
     }
 

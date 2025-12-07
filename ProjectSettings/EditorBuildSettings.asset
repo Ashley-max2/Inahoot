@@ -8,4 +8,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: e4399b8c8395b5749a3ee7ba66dbc160
+  - enabled: 1
+    path: Assets/Scenes/Results.unity
+    guid: 26af943a1ad699e4887820ffdb329863
+  - enabled: 1
+    path: Assets/Scenes/Leaderboards.unity
+    guid: 5bf9235e5fd24a24a938e597d82c1cfc
+  - enabled: 1
+    path: Assets/Scenes/Reports.unity
+    guid: eb1567add75484c4b9fbf3e72f370f59
+  - enabled: 1
+    path: Assets/Scenes/KahootCreator.unity
+    guid: 686edc0fe1a7a414f913abc9faa2f2ad
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 074dc0a12d612344390f5637da4d3526
+  - enabled: 1
+    path: Assets/Scenes/ErrorReports.unity
+    guid: 937a5210af4e22841a6ea841b7f623fd
   m_configObjects: {}
